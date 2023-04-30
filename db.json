@@ -1,0 +1,28 @@
+{
+  "Products": [
+    {
+      "img": "https://fastly.picsum.photos/id/26/4209/2769.jpg?hmac=vcInmowFvPCyKGtV7Vfh7zWcA_Z0kStrPDW3ppP0iGI",
+      "title": "Accessories",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "price": "4500",
+      "stock": "available",
+      "id": 2
+    },
+    {
+      "img": "https://fastly.picsum.photos/id/96/4752/3168.jpg?hmac=KNXudB1q84CHl2opIFEY4ph12da5JD5GzKzH5SeuRVM",
+      "title": "Pawel Kadysz",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "price": "3000",
+      "stock": "not available",
+      "id": 3
+    },
+    {
+      "img": "https://fastly.picsum.photos/id/250/4928/3264.jpg?hmac=4oIwzXlpK4KU3wySTnATICCa4H6xwbSGifrxv7GafWU",
+      "title": "Nicola Perantoni",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "price": "4500",
+      "stock": "Available",
+      "id": 4
+    }
+  ]
+}
